@@ -19,6 +19,10 @@ dependencies {
     compile 'com.jackandphantom.android:circularprogressbar:1.2.0'
 }
 ```
+NOTE
+------
+For CircularImageview, here is library created by me :- https://github.com/sparrow007/CircularImageview
+
 XML
 -----
 
