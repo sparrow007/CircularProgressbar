@@ -23,7 +23,7 @@ XML
 -----
 
 ```xml
-<!-- <a> circular imageview xml</a> -->
+<!-- <a> circular progressbar xml</a> -->
 <com.jackandphantom.circularprogressbar.CircleProgressbar
     android:layout_width="250dp"
     android:layout_height="250dp"
