@@ -6,6 +6,9 @@
         <attr name="cpb_foregroundProgressWidth" format="integer"/>
         <attr name="cpb_backgroundProgressColor" format="color"/>
         <attr name="cpb_foregroundProgressColor" format="color"/>
+        <attr name="cpb_roundedCorner" format="boolean"/>
+        <attr name="cpb_touchEnabled" format="boolean"/>
+        <attr name="cpb_clockwise" format="boolean"/>
     </declare-styleable>
 
 </resources>
