@@ -2,7 +2,7 @@
 
 ![circularprogressbar](https://user-images.githubusercontent.com/22986571/29291388-0aa337e0-8161-11e7-945c-1394dc9bcc1c.jpg)
 
-CircularProgressbar project let you create circular progressbar in android in simplest way.
+CircularProgressbar project let create circular progressbar in android in simplest way.
 
 [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
 [![API](https://img.shields.io/badge/API-13%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=13)
@@ -69,6 +69,18 @@ int animationDuration = 2500; // 2500ms = 2,5s
 circleProgressbar.setProgressWithAnimation(65, animationDuration); // Default duration = 1500ms
 ```
 * There is progress listener interface you can implement as par your requierments and there are also getter for all the above methods.
+
+## How to contribute?
+
+1. Fork the repository 
+2. Do the desired changes (add/delete/modify)
+3. Make a pull request
+
+## When to contribute?
+
+1. Fix open bugs.
+2. Add new issue.
+
 
 LICENCE
 -----
