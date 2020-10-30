@@ -68,7 +68,7 @@ circleProgressbar.setClockwise(true);
 int animationDuration = 2500; // 2500ms = 2,5s
 circleProgressbar.setProgressWithAnimation(65, animationDuration); // Default duration = 1500ms
 ```
-* There is progress listener interface you can implement as par your requierments and there are also getter for all the above methods.
+* There is progress listener interface you can implement as par your requirements and there are also getter for all the above methods.
 
 ## How to contribute?
 
