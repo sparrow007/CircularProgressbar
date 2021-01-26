@@ -16,7 +16,7 @@ Gradle
 ```
 dependencies {
     ...
-    compile 'com.jackandphantom.android:circularprogressbar:1.2.0'
+    implementation 'com.jackandphantom.android:circularprogressbar:1.2.0'
 }
 ```
 NOTE
